@@ -4,6 +4,10 @@
 
 This GitHub repository serves as a comprehensive resource for the "Machine Learning with Python" course offered on Coursera, powered by IBM. The course focuses on practical implementation of various machine learning algorithms using Python. The repository includes hands-on exercises and projects covering fundamental machine learning concepts, with a particular emphasis on real-world applications.
 
+## Certificate
+   <p><a href="https://coursera.org/share/f0c8124625495a812465bc7393917815">COURSE CERTIFICATE</a><br><br>
+   <img src="MLCertificate.PNG"  >
+
 ## Key Features
 
 1. **Linear Regression:**
